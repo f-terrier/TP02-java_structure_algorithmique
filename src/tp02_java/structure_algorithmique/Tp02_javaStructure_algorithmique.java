@@ -31,5 +31,5 @@ public class Tp02_javaStructure_algorithmique {
         
         System.out.println("Bon mot de passe !");
     }
-    
+
 }
